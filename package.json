@@ -4,7 +4,7 @@
   "description": "ejercicio 3 node js backend ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./node_modules/.bin/jest"
   },
   "repository": {
     "type": "git",
